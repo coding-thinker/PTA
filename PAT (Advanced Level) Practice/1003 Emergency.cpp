@@ -3,7 +3,6 @@
 #define INF 65535
 using namespace std;
 
-
 // Cpp version for 1003 Emergency.py
 // Accpeted on all 6 cases
 

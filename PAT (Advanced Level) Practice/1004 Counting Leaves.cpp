@@ -3,11 +3,16 @@
 # include<queue>
 using namespace std;
 
+// all accpeted
+
+
+// new a vector for a new node
 void put(vector<vector<int>> &vec, int num){
     vector<int> temp;
     vec[num] = temp;
 }
 
+// add child node
 void put(vector<vector<int>> &vec, int index,  int num){
     vec[index].push_back(num);
 }
