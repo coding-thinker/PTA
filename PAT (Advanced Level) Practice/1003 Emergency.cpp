@@ -9,7 +9,7 @@ using namespace std;
 
 class Citys{
     public:
-    vector<vector<int>> map;
+    vector<vector<int>> map;    
     vector<int> teams;
     int size;
     int minimum = INF;
